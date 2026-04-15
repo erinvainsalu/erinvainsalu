@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, my name is Erin
+
+This is my portfolio where you can find some projects I have worked on.
+
+- 🔭 I’m currently working on data analysis coarse to pivot to data analyst roles.
+- 🌱 I’m currently learning Power BI, SQl and Python.
+- 📫 How to reach me: erin.olevsoo@gmail.com
+- You can find more about my experience on my LinkedIn profile: https://www.linkedin.com/in/erin-vainsalu/
 
 <!--
 **erinvainsalu/erinvainsalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
