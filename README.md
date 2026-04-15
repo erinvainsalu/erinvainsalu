@@ -4,7 +4,7 @@ This is my portfolio where you can find some projects I have worked on.
 
 - 🔭 I’m currently working on data analysis coarse to pivot to data analyst roles.
 - 🌱 I’m currently learning Power BI, SQl and Python.
-- 📫 How to reach me: erin.olevsoo@gmail.com
+- 📫 How to reach me: erin@nemadtegid.eu
 - You can find more about my experience on my LinkedIn profile: https://www.linkedin.com/in/erin-vainsalu/
 
 <!--
